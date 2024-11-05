@@ -1,6 +1,7 @@
 # QSharer
 [![license](https://img.shields.io/github/license/MuGemSt/WiFi-Sharer.svg)](https://github.com/MuGemSt/WiFi-Sharer/blob/main/LICENSE)
 [![Build status](https://ci.appveyor.com/api/projects/status/soduqye3dylqgaar/branch/qt?svg=true)](https://ci.appveyor.com/project/MuGemSt/wifi-sharer/branch/qt)
+[![GitHub release](https://img.shields.io/github/release/MuGemSt/WiFi-Sharer.svg)](https://github.com/MuGemSt/WiFi-Sharer/releases/latest)
 
 项目 [Sharer](https://github.com/MuGemSt/Sharer) 的 Qt(C++) 版本
 
