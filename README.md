@@ -1,6 +1,6 @@
 # Sharer
 [![license](https://img.shields.io/github/license/MuGemSt/WiFi-Sharer.svg)](https://github.com/MuGemSt/WiFi-Sharer/blob/main/LICENSE)
-[![CI](https://github.com/MuGemSt/WiFi-Sharer/workflows/CI/badge.svg)](https://github.com/MuGemSt/WiFi-Sharer/actions)
+[![Build status](https://ci.appveyor.com/api/projects/status/7i1h18cu4ooo9rl5/branch/main?svg=true)](https://ci.appveyor.com/project/MuGemSt/wifi-sharer-nfc5o/branch/main)
 
 本软件能将 Windows 笔记本变成 WiFi 热点，我们还有个 C++ Qt 的版本被称为 [QSharer](https://github.com/MuGemSt/WiFi-Sharer/tree/qt)
 
