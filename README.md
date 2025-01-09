@@ -1,11 +1,11 @@
 # Sharer
-[![license](https://img.shields.io/github/license/MuGemSt/WiFi-Sharer.svg)](https://github.com/MuGemSt/WiFi-Sharer/blob/main/LICENSE)
-[![Build status](https://ci.appveyor.com/api/projects/status/7i1h18cu4ooo9rl5/branch/main?svg=true)](https://ci.appveyor.com/project/MuGemSt/wifi-sharer-nfc5o/branch/main)
-[![GitHub release](https://img.shields.io/github/release/MuGemSt/WiFi-Sharer.svg)](https://github.com/MuGemSt/WiFi-Sharer/releases/latest)
+[![license](https://img.shields.io/github/license/Genius-Society/wifi_sharer.svg)](https://github.com/Genius-Society/wifi_sharer/blob/main/LICENSE)
+[![Build status](https://ci.appveyor.com/api/projects/status/7i1h18cu4ooo9rl5/branch/main?svg=true)](https://ci.appveyor.com/project/Genius-Society/wifi_sharer-nfc5o/branch/main)
+[![GitHub release](https://img.shields.io/github/release/Genius-Society/wifi_sharer.svg)](https://github.com/Genius-Society/wifi_sharer/releases/latest)
 
-本软件能将 Windows 笔记本变成 WiFi 热点，我们还有个 C++ Qt 的版本被称为 [QSharer](https://github.com/MuGemSt/WiFi-Sharer/tree/qt)
+本软件能将 Windows 笔记本变成 WiFi 热点，我们还有个 C++ Qt 的版本被称为 [QSharer](https://github.com/Genius-Society/wifi_sharer/tree/qt)
 
-The software of Wi-Fi hotspot for Windows laptops, we also have Qt version called [QSharer](https://github.com/MuGemSt/WiFi-Sharer/tree/qt)
+The software of Wi-Fi hotspot for Windows laptops, we also have Qt version called [QSharer](https://github.com/Genius-Society/wifi_sharer/tree/qt)
 
 <img width="400" src="https://user-images.githubusercontent.com/20459298/233089077-8b52af15-6ff6-4f73-9167-f8be62650acc.png"/>
 
